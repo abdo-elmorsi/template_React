@@ -1,0 +1,69 @@
+.drop {
+	padding: 50px 0;
+	text-align: center;
+}
+
+footer div {
+	position: absolute !important;
+}
+
+.drop .drop-title {
+	font-size: 60px;
+	margin-bottom: 30px
+}
+
+.drop .drop-title span {
+	font-weight: normal
+}
+
+.drop form {
+	width: 70%;
+	margin: auto;
+}
+
+.drop form input {
+	box-sizing: border-box;
+	outline: 0;
+	padding: 5px;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+.drop form .form-input {
+	overflow: hidden
+}
+
+.drop form .form-input input {
+	width: 49%;
+}
+
+.drop form .form-input input[type=text] {
+	float: left
+}
+
+.drop form .form-input input[type=email] {
+	float: right
+}
+
+.drop form input.sub {
+	width: 100%;
+}
+
+.drop form textarea {
+	width: 100%;
+	outline: 0;
+	background: #03a9f44f;
+	font-size: 22px;
+}
+
+.drop form input[type=submit] {
+	width: 60%;
+	background: #fff;
+	font-size: 22px;
+	box-shadow: 0 0 10px #000;
+	color: #888;
+	cursor: pointer;
+	margin-top: 30px;
+	padding: 10px 0;
+	border-radius: 5px;
+}

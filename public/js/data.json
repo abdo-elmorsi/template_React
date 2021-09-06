@@ -1,0 +1,102 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fa fa-chain fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fa fa-bolt fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fa fa-tachometer fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": 1,
+      "type": "photoshop",
+      "image": "images/Portfolio/portfolio-img1.jpg"
+    },
+    {
+      "id": 2,
+      "type": "mobile",
+      "image": "images/Portfolio/portfolio-img2.jpg"
+    },
+    {
+      "id": 3,
+      "type": "photoshop",
+      "image": "images/Portfolio/portfolio-img3.jpg"
+    },
+    {
+      "id": 4,
+      "type": "html",
+      "image": "images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 5,
+      "type": "mobile",
+      "image": "images/Portfolio/portfolio-img5.jpg"
+    },
+    {
+      "id": 6,
+      "type": "html",
+      "image": "images/Portfolio/portfolio-img6.jpg"
+    },
+    {
+      "id": 7,
+      "type": "wordpress",
+      "image": "images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 8,
+      "type": "photoshop",
+      "image": "images/Portfolio/portfolio-img8.jpg"
+    }
+  ],
+  "brogress": [
+    {
+      "id": 1,
+      "title": "Bootstrap",
+      "perc": "100%"
+    },
+    {
+      "id": 2,
+      "title": "Css3",
+      "perc": "90%"
+    },
+    {
+      "id": 3,
+      "title": "Photoshop",
+      "perc": "80%"
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "icon": "icon fa fa-facebook fa-lg",
+      "title": "Follow Me on",
+      "body": "Social Facebook"
+    },
+    {
+      "id": 2,
+      "icon": "icon fa fa-twitter fa-lg",
+      "title": "Tweet Me on",
+      "body": "Social twitter"
+    },
+    {
+      "id": 3,
+      "icon": "icon fa fa-pinterest fa-lg",
+      "title": "Pin Me on",
+      "body": "Social Pinterest"
+    }
+  ]
+}
